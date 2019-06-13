@@ -1,0 +1,48 @@
+# The Organized Mind Notes
+
+- People complained when the written word was first introduced 5,000 years ago [14]
+- Many of the complaints people had were very similiar to the complaints people had about modern technology
+- Making people lazy, how to detect "fake News", technology could rot the mind
+- Plato's King Thamus: Decried that the Dependence on written word would "weaken men's characters and create forgetfulness in their souls"
+- Thamus, King of Egypt argued that written word would infect the people of egypt with fake knowledge
+- Greek Poet, Callimachus said books are a "great evel"
+- Seneca the YOunger said "abundance of books is a distraction", though he also dded that people should focus on a few good books
+- When printing press was introduced in mid 1400s Erasmus went on a Tired against the swarmof books
+- Descartes recommended ignoreing pooks and relying on one's own observations
+- High cost of attention switchinng, multi tasking is overrated [16]
+- Author should have also used as an example the fact that eskimos have over 300 words for snow [30]
+- Emergence of languages [28]
+- Brain diagram [42]
+- Four components in human attentional system: mind-wandering mode, central executive mode, attentional filter, attentional switch [45]
+- Elizabeth Loftus experiment, importance of Framing the question, see Peter Thiel and Presuasion [55]
+- Spends too long explaining the neuroscience of Categorization
+- Details the science behind Index Cards and TODO Lists [75?]
+- DARPA find the 10 missing balloons [114]
+- Salvatore Iaconesi open sourced medical records to crowdsource treatment options for his brain cancer [118]
+- Stuart Vallins attractive woman science experiment with placebo heartbeat monitor, replicated in a bunch of similiar studies [150]
+- Benefits of and how to do Bimodal sleep [189]
+- Single word game 201
+- John Mcenroe complimenting people on what they did well so they start thinking about it and disrupting their flow [207]
+- Tips on how to achieve flow state [210], five-minute rule [211]
+- How young and old people perceive time (life time) [215]
+- People misunderstanding probability of flipping 3 heads in a row [227]
+- Representative heuristic bias, 10% are engineers and plastic protectors [229]
+- Bayesian probability (TODO: revisit how to do the fourfold table) [231]
+- "People given a choice along with their opinion of an expert stop using the part of the brain assosciated with independent decision making", very interesting quote with strong implications, thought it would be nice if he backed it up with a research paper. [239]
+- Prostate cancer decision making [240]
+- Life extension tradeoff compared to opportunity cost of claims that exercise extends life-span [242]
+- Very fascinating section on the fallacies in medicine and fallacy of experts, binomial theorem, excellent conversation with a doctor. Reminds me of Nassim Taleb critiques of the medical industry/experts in Antifragile and criticism of Finance industry in Black Swan, I feel like I need to understand statistics better now [247]
+- Mention Martin Shkreli's talk at Harvard re: side effects of medicine, statistics etc.
+- Interesting mention of great doctors using Reinforcement learning, they basically describe the ideal doctor the same way one would describe a machine learning medical algorithm in terms of pattern recognition and data, reminds me of Vinod Khosla's talk that doctors are unnecessary and can be replaced by algorithm [249]
+- Organizing the business world section was boring tbh [277]
+- Organizing paperwork was mildly interesting, I think it should be updated to how to manage digital files. My personal advice is to use the cloud to store data and sync between devices, I personally really like Google Drive and Google Photos. digitize physical data as much as possible, use a physical hard drive if you want. Keep your computer desktop empty and only include one folder then suborganize things within that folder [screnshot of my laptop desktop	questiona]
+- Considering how effective Google search is now it may not be as necessary to have folders you can just spotlight search for relevant emails and files, the key is having descriptive file names and subject headers
+- Interesting definition of the word using Kolmorov complexity and intro to Claude Shannon's information theory[313, 314]
+- Google VP and CIO Douglass Merrill says jMake search a forethought, how will I look for this when I need it [320]
+- Read a blog post by Naval Ravikant (highly recommend following him on Twitter) and he mentioned a friend did a Dopamine diet. I think there is a connection between the dopamine diet and processing all the information that we generate today.
+- Lee Ross, Stanford University Beirut, Pro-Israel and Pro-Palestine bias people see what they want to see [340]
+- Clever (but bad) mail fraud trick [345]
+- Correlation vs causation Denver high power lines 1980s [350], funny Pirate graph example [348]
+- "At times I feel like I am right while not knowing the reason", similar to that tweet about smart people not understanding what they just read. [380]
+- anecdote about brainstorming where NCI got together artistsi, scientists and other creative people, Ironic because I recently tweeted that scheduled brainstorming sessions are ovverated [380]
+- Though, I do like the emphasis on importance of both creative and rational thinking. Reinforces my thesis that people who are both left and right brained tend to be very succesful. One of those things that I already knew was true, but I keep on hearing it so it makes me want to keep doubling down on that. [todo: some things I am doing to simultaneously develop my left and right brain thinking]
