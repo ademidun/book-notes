@@ -17,3 +17,15 @@
 - The reason it is effective because it is telling you things that you already **WANT** to believe
 - Smarter people can be more susceptible to this because, the smarter you are the better you are at rationalizing and construving a narrative frame of whatever you want to believe [62]
 - West, Meserve and Stanovich test the blind-spot bias, we are better at detecting flaws in others than in ourselves and the smarter you are, the greater your blind-spot bias [62]
+- Learning loop 1 image [62] reminds me of one of the feedback loop in Ray Dalio's principles
+- Nick the Greek story [75], who had a strongly held belief that playing bad poker hands was a good strategy because people didn't expect it (I'm not kidding). Her stories about the different characters in her book, reminds me of Fat Tony and Nero Tulip in Nassim Taleb's AntiFragile (highly recommend)
+- Interesting story about Chicago Cubs 2003 World Series Bartman Play: guy goes for the ball catches it, everyone blames him for Cubs losing world series even though other people went for the ball and Cubs had multiple chances to win the series. Cubs won the world series in 2016, they offer him a championship ring and he accepts and say it should be a reminder of how we treat each other [98]
+- Big problem with confirmation bias and group think in social psychology pointed out by Jon Haidt, 85-96% of members self-identify as left of center and most of the remaining 4-15% identify as moderate or centrist rather than conservative [145]
+- In the 90s liberals outnumbered conservatives 4-1, recent surveys show that ratio has grown to 10-1
+- Jon Haidt, Phillip Tetlock, Jose Duarte, Jarret Crawford, Lee Jussim found the Heteredox academy to "fight drift towards homogeneity of thought" [146]
+- They publish a paper and talk about steps to allow more diversity of opinion in your group, author suggests following more people with opposing viewpoints to you on twitter [148], I realy like how she concluded this section
+- Absolutely fascinating section on how using betting markets instead of peer review can actually lead to better, more objective scientific research [149] [tomiwa reread this section]
+- The idea is that by having scientists bet on if their experiements are reproducible it reduces bias because a major problem is when people publish a paper like "drinking Kombuchar, Keto, Paleo can reduce fat by 20%" but other scientists can't reproduce those results [150], 
+- The Reproducible Project aims to solve this , experts using peer review when asked if a given experiement would replicate, were right 58% of the time, when the traders were experts and had money on the line they were right 71% of the time. Another classic example of "Skin in the Game" which I think may be Nassim Taleb's greatest intellectual contribution [Link to BBS paper] [150]
+- Fascinating story of Robert K Merton, who did pioneering work in how to get diversity of opinion in scientific groups around 1950s []
+- CUDOS [154]
