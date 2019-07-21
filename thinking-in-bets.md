@@ -28,4 +28,31 @@
 - The idea is that by having scientists bet on if their experiements are reproducible it reduces bias because a major problem is when people publish a paper like "drinking Kombuchar, Keto, Paleo can reduce fat by 20%" but other scientists can't reproduce those results [150], 
 - The Reproducible Project aims to solve this , experts using peer review when asked if a given experiement would replicate, were right 58% of the time, when the traders were experts and had money on the line they were right 71% of the time. Another classic example of "Skin in the Game" which I think may be Nassim Taleb's greatest intellectual contribution [Link to BBS paper] [150]
 - Fascinating story of Robert K Merton, who did pioneering work in how to get diversity of opinion in scientific groups around 1950s []
-- CUDOS [154]
+- CUDOS [154] [explain what this is]
+- In 1967, scientific community were split on if sugar or fat was causing heart diseas, three Harvard scientists published a report in New England Journal of Medicine saying that fat was the culprit [164]
+- The effect of this paper had massive effects on American's eating habits, an article published in 2016 shows that the sugar industry had paid the scientists to write the paper
+- That is a financial and very clear example of conflict of interest, but we do this in other ways. We don't process information independently of how we wish the world to be [165]
+- Richard Feynman found that if we knew or could intuit the hypothesis being tested, the analysis is more likely to support the hypothesis
+- This is why I am suspicous of most "research papers" in the social sciences field that somehow always reach conclusions that align with the author's personal opinon
+- Robert MacCoun and Saul Perlmutter, in a 2015 nature article mention outcome-blind analysis which is used in particle physics and cosmology but not biological, psychological and social sciences
+- The idea is that you introduce a random variable so that those analyzing data cannot surmise [word choce?] the outcome the reasearcher is hopinh for
+- Sometimes it is best to analyze a strategy before you know what the outcome of your strategy is [167]
+- Sidebar: I recently tweeted that companies should stop having  "strategies" and instead they should have "hypothesis"
+- Strategy implies I know this to be true and I will run through a wall to validate it, hypothesis is here is what we think is true, here is how we are going to test it and here is how we will know it is true, it also promotes more experimentational attitude 
+- She teslls funny story about how she gives talks and leaves off how the hands ended. The she writes:
+"...I had left them teetering on the edge of a cliff. 'Wait! How did the hand turn out?' I gave them the red pill: 'It doesn't matter' " brilliant writing! [167]
+- Mentions the importance of having diversity of opinion in a group [168]
+- I generally agree but it is not a "more is good" thing, the trick is finding the inflection point:
+- In an organization you want to have diversity of opinion so that people can challenge and improve their ideas, but you actually want a small degree of group think where everyone is passionately on the same page, because I often find groups where people agree with each other and are on the same page, they also tend to move faster. The trick is finding that balance.
+- Funny David Letterman story, lesson for me because I have tendency to give unsolicited advice, I need to do a better job of asking for permission first, she cals it a "social contract" [page number tk]
+- RED team, and state State Department Dissent Channel [page number? tk]
+- Some very practical strategies of truthseking:
+    - **Expresss Uncertainty**: If you say "I might be wrong..." or "I'm not sure" it gives people an opportunity, "social permission" to share useful information with you that they may otherwise have held back [172]
+    - **Lead with Assent**: when expressing a difference of opinion, start with what you agree with then say "AND..." not "BUT..." this prevents people from becoming defensive [173]
+    - My addition is to Also, try to intone your voice in such a way that people are not waiting for the shoe to drop. I've noticed there is a certain tone in which we tend to talk that you know even if someone is agreeng with you there is a but coming, so you're already getting emotional and defensive while they are talking. I'm not sure what the solution to this is but by being observant that it exists, that is one step towards solving it.
+    - **Ask For Temporary Agreement in Truth-Seeking**: If someone is emotionally offloading to us, ask if they just want to vent or are looking for advice for what to do next. She suggests the phrase. "Do you want to just let it all out [and talk about it] or are you looking for what to do next?" [174]
+    - I have a habit of giving unsolicited advice and this is a reminder for me that I should probably get consent before I give my advice
+    - The future hasn't happened yet so try to focus conversations on that, when you focus on the past, people get too hung up on creating narratives to rationalize what happened [176]
+## Adventures in Mental Time Travel
+- She suggests using past and future versions of yourself to make better decisions
+- 
