@@ -55,4 +55,4 @@
     - The future hasn't happened yet so try to focus conversations on that, when you focus on the past, people get too hung up on creating narratives to rationalize what happened [176]
 ## Adventures in Mental Time Travel
 - She suggests using past and future versions of yourself to make better decisions
-- 
+- Very profound quote on how we should think about happiness as a long term stock that steadily rises and pay less attention to the day-to-day fluctuations. Very cool graph of Berkshire long-term vs short-term stock price to illustrate this [192].
