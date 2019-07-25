@@ -20,6 +20,9 @@
 - Learning loop 1 image [62] reminds me of one of the feedback loop in Ray Dalio's principles
 - Nick the Greek story [75], who had a strongly held belief that playing bad poker hands was a good strategy because people didn't expect it (I'm not kidding). Her stories about the different characters in her book, reminds me of Fat Tony and Nero Tulip in Nassim Taleb's AntiFragile (highly recommend)
 - Interesting story about Chicago Cubs 2003 World Series Bartman Play: guy goes for the ball catches it, everyone blames him for Cubs losing world series even though other people went for the ball and Cubs had multiple chances to win the series. Cubs won the world series in 2016, they offer him a championship ring and he accepts and say it should be a reminder of how we treat each other [98]
+
+## Thinking in Bets Groups
+
 - Big problem with confirmation bias and group think in social psychology pointed out by Jon Haidt, 85-96% of members self-identify as left of center and most of the remaining 4-15% identify as moderate or centrist rather than conservative [145]
 - In the 90s liberals outnumbered conservatives 4-1, recent surveys show that ratio has grown to 10-1
 - Jon Haidt, Phillip Tetlock, Jose Duarte, Jarret Crawford, Lee Jussim found the Heteredox academy to "fight drift towards homogeneity of thought" [146]
@@ -56,3 +59,15 @@
 ## Adventures in Mental Time Travel
 - She suggests using past and future versions of yourself to make better decisions
 - Very profound quote on how we should think about happiness as a long term stock that steadily rises and pay less attention to the day-to-day fluctuations. Very cool graph of Berkshire long-term vs short-term stock price to illustrate this [192].
+
+- Ulysses Contract: Name after Odysseus and the siren odyssey. Where he put wax in his ears before he went on a voyage because he knew he would get distracted by siren songs. Make a plan to account for future decision-making hazards [200].
+- E.g. When I am tired an open youtube, I start clicking on endless related videos so I installed a Youtube recommendation blocker that blocks recommended videos: 
+- This might be a new word for an old concept: Create barriers for things that tempt you
+- Very pragmatic advice of sometimes you just need to vent and complain. Even though its arguably irrational, it is normal to want to emotionally offload, it can help you relax.[205]
+- Decision swear jar: everytime you use a word or actions that is usually a signal that you are doing something irrational: 
+    -  overconfidnce: "I am 100% sure"
+    - Irrational outcome Fielding: "I got unlucky" or "I planned it perfectly"
+
+- Scenario planning, when making a decision, think of all possible outcome and their rough probabilities. I can't tell if this is insightful or obvious [211]
+- Data analysis of Pete Carrol's decision
+- Backcasting and premortem, imagine the future already happened. How did you get here/there?

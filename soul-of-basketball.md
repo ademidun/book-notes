@@ -39,3 +39,9 @@
 - Noticed that professional sports coaches always seem to be under the most amount of stress (noticed this in soccer as well)
 - I feel like a lot of this is unnecessary because the reality is that coaches feel reponsible for wins and losses but really 90% of the outcome is due to the players on the field and coaches have no control over that
 - Reminds of Jeff Bezos Quote about how: "stress is a result of thinking about something but not actively doing anything to address it"
+
+## Referees [tk add page numbers]
+- Interesting story about why most referees miss travels, "travelling is a misdemeanor, handchecking is a felony". They don't look at feet but look at body so they can catch handchecking
+- Why do superstars get more fouls called. They are more explosive so they are more likely to draw contact:
+"Some players you need to see live Lebron is one of them"
+- Self-awareness by Referre to realize that he didn't have to be so "my way or the highway", part of my theory that the days of "my way or the highway" authority figures is almost over
