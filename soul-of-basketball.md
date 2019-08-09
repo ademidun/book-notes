@@ -6,9 +6,9 @@
 - Biggest difference between NBA and most other team sports leagues (except for maybe soccer) is that players have more control and leverage
 - This is a VERY important topic, that is affecting all aspects of society which I will be writing more about in a seperate blog post.
 - Lebron is arguably the most influential player in the NBA from a player's perspective
-- Lebron's generation was the "AAU" generation: players who were told they were great and already had a platform in high school BEFORE they played an NBA game [tk page reference]
+- Lebron's generation was the "AAU" generation: players who were told they were great and already had a platform in high school BEFORE they played an NBA game [12, 26 74,] [tk page quotes on AAU see index]
 - Dramatically different from previous stars like Michael and Kobe who only got acclaim after their first couple seasons in the league
-- You see that trend picking up now with superstars like Zion Williamson, Lamelo ball with X and Y instagram followers respectively in high school
+- You see that trend picking up now with superstars like Zion Williamson, Lamelo ball with 4 and 5 instagram followers respectively in high school
 - It's funny how we can forget that Lebron's move to Miami is truly an iconic moment in NBA history
 - First time that a superstar left his drafted team as a free agent to team up with other superstars 
 - First time that a superstar chose what team they were going to play for, introducing the "control my destiny" narrative
@@ -20,6 +20,8 @@
 - In other words if you can get 2 or 3 All NBA (top 20 players) on your team it doesn't matter who else you put on the team, you have very good chance of winning a championship.
 - Conversely, even if you have a starting lineup of top 20-30 players but no All NBA guys it doens't really matter
 - Interesting picture on page the last 31 championships have been hoarded by 11 elite stars[224] [tk add picture of list]
+- People hated on Lebron and now he's arguably the most loved player in the league
+- My prediction is Giannis will be the next person to have a villain moment, then once he emerges from that he will enter the GOAT debate, right beside Lebron and Jordan,
 
 ## Mark Cuban The Visionary
 - Mark Cuban is a very interesting guy: showed some pretty smart (lucky?) timing in selling his startup Broadcast.com to Yahoo for $5.7 Billion, subsequently wrote down to $X billion
@@ -45,3 +47,6 @@
 - Why do superstars get more fouls called. They are more explosive so they are more likely to draw contact:
 "Some players you need to see live Lebron is one of them"
 - Self-awareness by Referre to realize that he didn't have to be so "my way or the highway", part of my theory that the days of "my way or the highway" authority figures is almost over
+- In the "good old days" referees used to have a lot of powers and blatantly make calls against people they didn't like as told by Joey Crawford [266]
+- Another example of how in today's society we are giving power back to the individual
+- 
