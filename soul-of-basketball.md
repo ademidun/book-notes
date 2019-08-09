@@ -1,8 +1,16 @@
 ## THe Soul of Basketball
 
+The soul of Basketball is about the 2010-11 NBA season from the perspective of Lebron James in Miami Heat, Doc Rivers coaching the Boston Celtics, Kobe Bryant in the Los Angeles Lakers and Dirk Nowitzki with the Dallas Mavericks. 
+
+
+I find the NBA to be such a fascinating league. I have recently become very interested in media, culture and where are we spending our attention I have been very impressed by how the NBA has done such a great job of adapting to changing times and created a platform for NBA players to be the most culturally relevant athletes with the most leverage in the modern era.
+
+This is such an important article that I will be writing a full blog post abut it called [The Age of The SuperHuman](https://blog.tomiwa.ca/the-age-of-the-superhuman). That URL is currently pointing to an empty space but you can [subscribe](https://blog.tomiwa.ca/subscribe/) to get notified when it's finished.
+
+
 
 ## Lebron's Innovation in the NBA
-- Biggest takeawat from this book is the idea of leverage and the "player empowerment" movement in the NBA
+- Biggest takeaway from this book is the idea of leverage and the "player empowerment" movement in the NBA
 - Biggest difference between NBA and most other team sports leagues (except for maybe soccer) is that players have more control and leverage
 - This is a VERY important topic, that is affecting all aspects of society which I will be writing more about in a seperate blog post.
 - Lebron is arguably the most influential player in the NBA from a player's perspective
@@ -49,4 +57,3 @@
 - Self-awareness by Referre to realize that he didn't have to be so "my way or the highway", part of my theory that the days of "my way or the highway" authority figures is almost over
 - In the "good old days" referees used to have a lot of powers and blatantly make calls against people they didn't like as told by Joey Crawford [266]
 - Another example of how in today's society we are giving power back to the individual
-- 
