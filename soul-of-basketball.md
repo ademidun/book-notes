@@ -13,6 +13,7 @@ I find the NBA to be such a fascinating league. I have recently become very inte
 This is such an important article that I will be writing a full blog post abut it called [The Age of The SuperHuman](https://blog.tomiwa.ca/the-age-of-the-superhuman). That URL is currently pointing to an empty space but you can [subscribe to my blog](https://blog.tomiwa.ca/subscribe/) to get notified when it's finished.
 
    
+  
 
 ## Lebron's Innovation in the NBA
 
@@ -44,8 +45,9 @@ This is such an important article that I will be writing a full blog post abut i
 
 - NBA talent like most social things in life follow a power law distribution 
 
-[tk image of power law graph]
+![Soul of Basketball Review by Tomiwa](https://pbs.twimg.com/media/DXsX9zHVQAEsWgI?format=jpg&name=large "Soul of Basketball Review by Tomiwa")
 
+[Source tweet](https://twitter.com/hsu_steve/status/971396640945922048)
 - In simplest terms: the best 20 players in the NBA probably have 80% of the market value or 80% of the "championship winning talent"
 
 - In other words if you can get 2 or 3 All NBA (top 20 players) on your team it doesn't matter who else you put on the team, you have very good chance of winning a championship.
@@ -110,3 +112,12 @@ This is such an important article that I will be writing a full blog post abut i
 - In the "good old days" referees used to have a lot of powers and blatantly make calls against people they didn't like as told by Joey Crawford [266]
 
 - Another example of how in today's society we are giving power back to the individual
+
+
+## Conlcusion
+
+Overall, [The Soul of Basketball](https://amzn.to/31y7cHF) is a fairly decent book. The most important thing for me was getting data points I can reference in my talk about players and individuals have more leverage in modern society. 
+
+Also, speaks to a theory I have that the reaction to the event is more than the main event. The players, their stories, NBA twitter, Reddit, podcasts etc. are what people spend most of their consuming and thinking about, more than the games itself.
+
+A lot of interesting anecdotes like what Rondo is like as a teammate, or Dirk Nowitzki struggling to adapt to American culture. It's crazy because some of these things happened almost 10 years ago and it feels like it happened 20 years ago, society seems to move on so quick.

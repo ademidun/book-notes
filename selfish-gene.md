@@ -25,3 +25,8 @@
 - cells divide in a process called mitosis, where each cell has an identical cell of 46 chromosomes [33]
 - there is another kind called meiosis, occuring only in production of sex cells, sperm and egg are unique because they are the only cells with 23 chromosomes, "exactly half of 46, which is convenient for fusing together in sexual fertilization to make an individual" [33]
 - meiosis is a special kind of division in testicles and ovaries where a set of 46 chromosomes divides to a cell with only 23
+- definition of a gene [36]
+- genes can live for millions of years [45]
+- A part of me feels like this is cool, but his definition of is so expansive that it almost just seems like either a truism or a trivial fact, though he humurously admits so himself [36
+- gene is the basic unit of selfishnss [46]
+Funny line "Everybody knows that wheat plants grow bigger in the presence of nitrate than it's absence
