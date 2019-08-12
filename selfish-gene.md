@@ -30,3 +30,7 @@
 - A part of me feels like this is cool, but his definition of is so expansive that it almost just seems like either a truism or a trivial fact, though he humurously admits so himself [36
 - gene is the basic unit of selfishnss [46]
 Funny line "Everybody knows that wheat plants grow bigger in the presence of nitrate than it's absence
+
+-----
+
+[ August 12 2019 - I am taking a break from reading this book. Topics are a bit too complex for me right now and learning the details of genes and alleles may not be best use of my time right now. This may not be the most useful thing for me to learn right now. Reading Laws of Human Nature instead]
