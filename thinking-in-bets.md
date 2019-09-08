@@ -61,7 +61,7 @@
 - Very profound quote on how we should think about happiness as a long term stock that steadily rises and pay less attention to the day-to-day fluctuations. Very cool graph of Berkshire long-term vs short-term stock price to illustrate this [192].
 
 - Ulysses Contract: Name after Odysseus and the siren odyssey. Where he put wax in his ears before he went on a voyage because he knew he would get distracted by siren songs. Make a plan to account for future decision-making hazards [200].
-- E.g. When I am tired an open youtube, I start clicking on endless related videos so I installed a Youtube recommendation blocker that blocks recommended videos: 
+- E.g. When I am tired, I open youtube, I start clicking on endless related videos so I installed a Youtube recommendation blocker that blocks recommended videos: 
 - This might be a new word for an old concept: Create barriers for things that tempt you
 - Very pragmatic advice of sometimes you just need to vent and complain. Even though its arguably irrational, it is normal to want to emotionally offload, it can help you relax.[205]
 - Decision swear jar: everytime you use a word or actions that is usually a signal that you are doing something irrational: 
