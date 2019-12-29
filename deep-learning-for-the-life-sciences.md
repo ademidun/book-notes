@@ -1,5 +1,7 @@
 # Deep Learning for the Life Sciences
 
+I think that in the near future the biggest techonological improvements in society will come from advances in artificial intelligence and biology. So I've been trying to learn more about the intersection of artificial intelligence and biology. I decided to read the book, Deep Learning for the Life Sciences because it covers both topics.
+
 If you want to become very rich or help a lot of people in the future, I recommend learning data science and biology. More specifically deep learning and genetics. I recently bought a book about deep learning and genetics.
 
 
