@@ -140,3 +140,15 @@ He spends an entire chapter proposing a theory then says: "So what does this mea
 
 - I'm surprised there was no mention of Jonathan Haidt in the book. I even checked the index, nothing. The Coddling of the American Mind and The Righteous Mind seem like they would have been relevant and an interview with haidt would have had some interesting perspectives.
 
+- "There's a phraise I constantly notice on the interent, particularly after my wife pointed out how incessant it has become. The phraise is, "You're doing it wrong". Klosterman continues: "Whenever you see something defining itself..., as opposed to generating one's own" [242]
+
+- Reminds me of when I googled Paul Graham inequality and the 2-4th hits were all "Paul Grama is wrong and here's why
+
+- The McLauglin group is literally peak OK Boomer [248]
+
+- I'm always curious why people are so Obstinate. Here's an interesting quote: "We spend our lives learning many things,... (Whether we like it or not)/" [428] [tk finish quote]
+
+- What if animals are smarter than humans. Veterinarian Vint Virga thinks that gorillas are more emotionally intelligent than humans
+- So if we increasingly value emotional intelligence instead of IQ then that could mean that gorillas are superior to humans (this is a bit tongue in cheek, I think)
+- Makes a funny joke about how it doesn;t really change anything because we humans will still continue living life as usual, we are not about to elect a gorilla to Congress becuase it is more emotionally intelligence
+- but actually, after writing that, I feel like if gorillas are more EQ than humans presumably they should be given some degree of decision making power
