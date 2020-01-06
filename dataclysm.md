@@ -1,30 +1,40 @@
-# Dataclysm
+# Dataclysm by Christian Ruder
 
-- [Dataclysm](https://amzn.to/39KETLi) is a book by the founder of OkCupid, Christian Ruder, on what the site's data can tell us about human behaviour, OkCupid is a dating website. If you are interested in learning more about dating habits in society and more broadly, what people say they like versus what they actually like, I would recommend.
+- [Dataclysm](https://amzn.to/39KETLi) is a book by  Christian Ruder, the founder of OkCupid, a dating site. The book is about the site's data can tell us about relationships and human behaviour. If you are interested in learning more about dating habits in society and more broadly, what people say they like versus what they actually like, I would recommend you read this book.
+
+- This book was also particularly relevant for me because my startup, [Atila](http://atila.ca/) is a very data driven site and I was interested to see some of the ways that we can apply his data crunching + story telling technique to our company as well
+
+- We are currently running a massive series of a/b tests on our site, partially inspired by this book. [Subscribe to my blog](https://blog.tomiwa.ca/subscribe/) to get notified when the post is ready.
 
 
-- I believe there are two types of non-fictions: data driven and narrative driven (see Shiller's Narrative Economics for more on this).
-- Some books the authors have a narrative and then ocasionally sprinkle data in to tell their story
-- Other books, the author has a bunch of data and tries to interpret the data
+- I believe there are two types of non-fictions: data driven and narrative driven (see Shiller's [Narrative Economics](https://amzn.to/36xB6Pe) for more on this).
+- Some books the authors starts with a narrative and then ocasionally sprinkle datas in to emphasize their story
+- Other books, the author lets the data drive the story 
 - This is a spectrum as both categories use a bit of each other, but narrative is primarily based on apriori logic and the author's obersvations while data driven is primarily driven by empirical data
 
-- Neither is necessarily better or wrse, and most of my favorite books are narrative driven (Antifragile, How to Fail at Everything and Still Win Big), if you want raw data, read a census report
+- Neither is necessarily better or wrse, and almost all of my favorite books are narrative driven (Antifragile, How to Fail at Everything and Still Win Big etc.). If you want raw data, read a census report
 
-- But recently I've grown an increasing fondness for books that just takes the data and says
-- "I won't try to convince you of anything, here is the data, you form your own opinions"
+- But recently I've grown an increasing fondness for books that just takes the data and says: "I won't try to convince you of anything, here is the data, you form your own opinions"
 
 - One of my favorite meta takeaways from this book is that directly observing people's behaviours is much more effective than asking them due to the Hawthorne effect
 
-- Essentially, if you ask someone on the phone, "Would you date someone froma different race than you?" some people may lie and say yes, even though they would only date people of the same race. However, if you just observed their behaviour on a dating site and tracked how often they messaged people of opposing races, that would be a lot more instructive
+- Essentially, if you ask someone on the phone, "Would you date someone from a different race than you?" some people may lie and say yes because it's the socially desirable thing to say, even though they would only date people of the same race. 
+
+- However, if you just observed their behaviour on a dating site and tracked how often they messaged people of opposing races, that would be a lot more instructive
 
 - This can be applied in a wide range of things: e.g. it's currently election season in the US, the polls were notoriously wrong for Trump's election and Brexit. One reason for this is that voting for Trump and Brexit are against social norms so some people were afraid to say they supported Trump or Brexit when asked. But privately they knew they were going to vote for Trump or Brexit. If people had access to Social media analytics (e.g. what % of people in parts of US or UK are Liking anti-immigration posts on FB), I wonder if that would have been predicitive of Trump or Brexit
+
+- I predict that for the 2020 election, search and social media data analytics will be more predictive of who wins primaries and general election than traditional polls
+
+- I think that [Mining the Social Web](https://amzn.to/2rXXWk3) and [Mining Social Media: Finding Stories in Internet Data](https://amzn.to/2ZWCZ5J) seem like they are very timely in an election year. [Mining Social Media](https://amzn.to/2ZWCZ5J) actually came out just over a month ago. And just a year before the 2020 election, great timing IMO.
 
 - Update: There are various names for this the Bradley Effect, Shy Tories, Spiral of Silence
 
 - I was skimming another book at the library, [Everybody Lies](https://amzn.to/35urRhq) by Seth Stephens-Davidowitz and one of the Author's observations was that the number of searches for "Obama Romney" vs "Romney Obama" in a given state (or "Clinton Trump" in the 2016 election), was predictive of who would win that state 
 (tk tell Christian Rudder that his book reminds me of Stephens-Davidowitz's books)
 
-- I THINK that's what the author said, I can't remeber
+- Btw, I THINK that's what the author said, I can't remember
+
 - If you like this book, I think that book would also be really good, also because it's not limited to relationships there may be an ability to get broader conclusions, though the author may have less access to primary data
 
 - A good book related to this phenomenon is Private Truths, Public Lies by Timur Kuran
@@ -37,7 +47,7 @@
 and vice versa for women
 - There's things that I sort of always intuitively suspected but seeing it in raw data is always a bit surprising [42][43]
 - The importance of displaying the right data, page 41 and 42 are showing the same information, but page 42 displays it in a very intuitive way
-- 80/20 rule in NBA, similiar to the idea I talked about in Soul of Basketball [22]
+- 80/20 rule in NBA, similiar to the idea I talked about in [Soul of Basketball](https://blog.tomiwa.ca/soul-of-basketball-book-notes/) [22]
 - How many men message women on OkCupid, segmented by different age brackets [49]
 - "men and women experience beauty unequally" [128]
 - attractive people get more job interviews [129]

@@ -1,22 +1,27 @@
 # But What If We're Wrong by Chuck Klosterman
 
-Contrarianism is cool right now. This is the best book that I've read on how to be a contrarian thinker.
- But What If We're Wrong is a book about different ideas that are popular in society and offers a contrarian perspective on how we could be wrong.
 
-Peter Thiel says that it's not enough to be contrarian, you have to be contrarian and right. I don't know if Klosterman is necessarily "right" (and to be fair, he's not suggesting a lot of the ideas in the book as being "right") but I think he does an excellent job of creating a new lens on how to think about popular ideas or what I call, "generally accepted accounting stories".
+Contrarianism is cool right now. [But What If We're Wrong](https://amzn.to/2ZWCF70) by Chuck Klosterman is the best book that I've read on how to be a contrarian thinker.
+
+ But What If We're Wrong is a book about different ideas that are popular in society and offers a contrarian perspective on how we could be wrong about these commonly held beliefs.
+
+As you can see, one of my longest book reviews yet. An extremely fascinating and insightful book. The kind of book where you read certain parts and you will pause and find yourself thinking, "that can't possible be true... but what if it is...". If you want to become a more creative thinker or think about things from a perspective you haven't considered before I strongly recommend But What If We're Wrong.
+
+
+Peter Thiel says that it's not enough to be contrarian, you have to be contrarian and right. I don't know if Klosterman is necessarily "right" (and to be fair, he's not suggesting a lot of the ideas in the book as being "right") but I think he does an excellent job of creating a new lens on how to think about popular ideas or what I call, "generally accepted stories we tell ourselves".
 
 Final  high-level comment about the book: Klosterman is a phenomenal writer. I usually don't praise a writer's writing style because I read mostly non-fiction so I focus more on writing about the contents of the book and the quality of the ideas. I focus on substance and I think I don't appreciate style enough. But I believe in giving credit where credit is due and Klosterman is such a beautiful writer, he has this very sarcastic, dry, British sense of humor which I love so much. Here is one passage as an example:
 
 "The ultimate failure of the United States will probably not derive from the problems we see or the conflicts we wage. It will more likely derive from our uncompromising belief in the things we consider unimpeachable and idealized and beautiful. Because every strength is a weakness, if given enough time." [222]
 
 
-Paul Graham says that a great way to judge the quality of an idea is by how surprising it is. A great book won't tell you things you already know, but surprise you in many ways. This book might be the most densest book I have read in terms of new/surprising/counterintuitive ideas per page, tied with Nassim Taleb's Antifragile.
+Paul Graham says that a great way to judge the quality of an idea is by how surprising it is. A great book doesn't tell you things you already know, its surprises you with things you didn't know. This book might be the most densest book I have read in terms of high quality insightful and countertintuitive ideas per page, tied with Nassim Taleb's [Antifragile](https://amzn.to/2tDTmI7).
 
 The other challenge is that I already am a self-proclaimed contrarian so a lot of the "controversial" ideas he presents in this book were already known to me and seem reasonable-ish but I think the average person reading it would find a lot of the ideas mind opening. H
 
-My guess is that the primary audience for this book can best be described as  "People who liked Malcom Gladwell will also like this book". I think if he takes a Nassim Taleb/Peter Thiel approach and keeps the core thesis of the book but tweaks it to match what wall street and silicon valley types are interested in (money, power, impact) he could actually do very well in that demographic.
+My guess is that the primary audience for this book can best be described on Amazon as  "People who liked Malcom Gladwell will also like this book". If you like Malcolm Gladwell's books and Peter Thiel's Zero to One, you will really like this book. I think if he markets this book to the Nassim Taleb/Peter Thiel crowd and keeps the core thesis of the book but tweaks it to match what wall street and silicon valley types are interested in (money, power, impact) he could actually do very well in that demographic.
 
-My friend recently said to me: "Tomiwa, I look at you and I feel like you have too much entropy". Which means that I am doing too many random things. I am trying to get more focused in my pursuits but this book doesn't help me do that. It presents a lot of various, unrelated ideas together. It's okay because I think books like this which expose you to different contrarian ideas, make you a creative thinkers which is arguably more important.
+My friend recently said to me: "Tomiwa, I look at you and I feel like you have too much entropy". Which I interpreted to mean that I am doing too many random things. I am trying to get more focused in my pursuits but this book doesn't help me do that. It presents a lot of various, unrelated ideas together. It's okay because I think books like this which expose you to different contrarian ideas, make you a creative thinkers which is arguably more important.
 
 
 ## Sidebar: In Praise of Bill Simmons
@@ -26,7 +31,7 @@ My friend recently said to me: "Tomiwa, I look at you and I feel like you have t
 I tweeted "Bill Simmons is the Quincy Jones of Sports Journalism and probably media in general."
 https://twitter.com/tomiwa1a/status/1214143452423892993
 
-
+- Chuck Klosterman, Jalen Rose, Jonathan Tjarks. And Grantland and The Ringer are both excellent media companies
 
 ## What Makes Good Art?
 
@@ -160,3 +165,6 @@ He spends an entire chapter proposing a theory then says: "So what does this mea
 - So if we increasingly value emotional intelligence instead of IQ then that could mean that gorillas are superior to humans (this is a bit tongue in cheek, I think)
 - Makes a funny joke about how it doesn;t really change anything because we humans will still continue living life as usual, we are not about to elect a gorilla to Congress becuase it is more emotionally intelligence
 - but actually, after writing that, I feel like if gorillas are more EQ than humans presumably they should be given some degree of decision making power
+
+As you can see, one of my longest book reviews yet. An extremely fascinating and insightful book. The kind of book where you read certain parts and you will pause and find yourself thinking, "that can't possible be true... but what if it is...". If you want to become a more creative thinker or think about things from a perspective you haven't considered before I strongly recommend [But What If We're Wrong](https://amzn.to/2ZWCF70).
+
