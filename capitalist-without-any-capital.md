@@ -20,7 +20,7 @@
 
 - I found it very interesting how he alludes to Software Private equity being his next big move [249]
 
-- I am also bullish on technology/software private equity, I actually took a private equity course in business school (course review coming sooon (subscribe to my blog)[https://blog.tomiwa.ca/subscribe/] ) to get notified when it comes out)
+- I am also bullish on technology/software private equity, I actually took a private equity course in business school (course review coming soon, [subscribe to my blog](https://blog.tomiwa.ca/subscribe/) to get notified when it comes out)
 
 - I remember reading a stat somewhere that the best performing private equity firms were technology/software focused: Vista Equity partners led the group (maybe this is cyclical) but there's a lot of untapped opportunity in software still. It feels like we are at peak SAAS but sometimes it seems like we have barely even scratched surface.
 
