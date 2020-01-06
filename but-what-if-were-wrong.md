@@ -19,6 +19,14 @@ My guess is that the primary audience for this book can best be described as  "P
 My friend recently said to me: "Tomiwa, I look at you and I feel like you have too much entropy". Which means that I am doing too many random things. I am trying to get more focused in my pursuits but this book doesn't help me do that. It presents a lot of various, unrelated ideas together. It's okay because I think books like this which expose you to different contrarian ideas, make you a creative thinkers which is arguably more important.
 
 
+## Sidebar: In Praise of Bill Simmons
+
+- When I found out that the auther, Chuck Klosterman founded Grantland with Bill Simmons.
+
+I tweeted "Bill Simmons is the Quincy Jones of Sports Journalism and probably media in general."
+https://twitter.com/tomiwa1a/status/1214143452423892993
+
+
 
 ## What Makes Good Art?
 
