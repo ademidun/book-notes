@@ -2,11 +2,13 @@
 
 ![Tomiwa with the book, Lebron Inc](https://lh3.googleusercontent.com/OVmcu6DwORPZKnu6h6imBbWhtLREtslNaFYs_eTyDqUmPJODC6NSFfvEKWKR_QM4W1IVfo1Pbh7jKFCvG_SXCToOaMeQJ7a61XLXd9ZmRX-CWHt_5atdOXTvrmMX1AWd1JcL4R0LHrEifhLZeUdS3dtqa9s63i25sfBdUuRUaXBkYGBj9TpAbsQJFh-sp-x1Z3yknj-alihx1xIhDJz2bU1Qb3scb3f6gWeUn4Im8wasyzGZPj8fHb2ypcH0oY3pUlRkgiyaHWECA7cC4_NUDCmYh4d7BI_5gZ9Ff3hvny7bLPY31auqlrCRWRUB5fGTxSpfK1ngT8DKj66OBiTwftKtgepLO486UczMKEm0Qi6yAvXuh9gsMheRaFjMUGVPutgMyi_HP1spBFyWKSYlPP11eVY_Wa0O4d_-Tw8o9PxfaM5RtD3HTMZBKXnlDLzvUZ6Ldgv8fzh554nQZu-XKmyZkGCVTcl_iEQ-C2prF-gHUg3lxyoCGWPX4XZYq7nHHuoywCfhnfbVe2FVo5TURDsvFO2B-ubDut-PA55CS1vAr0jec9oGdWVLtAJuJnZC9llhAaP84ii0fQZFwxJd-JyzhQQn7OdVMhArMW37DoynKGg_kuS_baY3fR86KLByr57Vg2e0RH1_5zha8yvqjhdSkQedCo5MX604XG7q5LFsVOOQTyEBvfCJ=w1198-h1596-no)
 
-Lebron Inc. is about how Lebron has built his business empire from his Freshman year in St. Vincent St. Mary's in Akron in 2001 (tk verify Lebron high school freshman year) to his new team Los Angeles Lakers in 2019. Brian Windhorst has been following Lebron since 1999 so he is one of the few well known sports media people that has been following Lebron for a long time.
+[Lebron Inc.](https://amzn.to/2QZK2X4) by Brian Windhorst is about how Lebron has built his business empire from his Freshman year in St. Vincent St. Mary's in Akron in 2001 (tk verify Lebron high school freshman year) to his new team Los Angeles Lakers in 2019. Brian Windhorst has been following Lebron since 1999 so he is one of the few well known sports media people that has been following Lebron literally his entire career, and even before that.
 
 Lebron is my favorite athlete and one of the most influential people on modern culture. I have a lot of respect for all of the things he does off the court, from I-Promise schools to Uninterrupted, to how he posts on Instagram #tacotuesday, I am totally here to #WitnessGreatness. I am also super observant about how aware he is both on the court and off the court. 
 
-I was really excited to read this book. First, a quick story about how I was even able t get this book:
+I was really excited to read this book. First, a quick story about how I was even able t get this book: 
+
+Lng story short the only library that had this book was in another province on the other side of the country so I got an interlibrary loan. I had even forgotten about it when I got an email saying "your book is ready for pickup". This is why I think that [Public libraries are the greatest human institution ever created](https://twitter.com/tomiwa1a/status/1213649249830948865). Though, I had to return the book before I finishd reading it because I kept getting distracted and didn't have enough time to finish reading it before the deadline.
 
 
 ## High School Years (tk add year numbers)
