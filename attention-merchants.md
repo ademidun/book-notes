@@ -22,3 +22,15 @@ Though, I would have liked to see a bit more humor or sarcasm in his writing. To
 
 - Advertisers realized that if they want to get people to buy their products, they need to actually focus on the women
 - Tangentially, I've also realized that when I run Facebook ads for Atila. After the campaign ends, I look at the analytics and often we get better engagement from females
+
+
+- "The Nazis effected a shutdown of free thought in the land of Kant, Schiller and Goethe" [109]
+- Smart people make mistake of using facts in a complex issue [110]
+- For propoganda to be effective, in a sense it has to be less intelligent [111]
+- Hitler worked as a copywriter making advertising posters [111]
+- Appeal to emotion: 
+
+## Email, "Check in", Birth of the Internet
+
+- Roy Tomlinson invented email mostly by luck, the @ symbol was pretty much an arbitrary decision and not intelligent design etc. [183]
+- 1973, 75% of network traffic was email [185]
