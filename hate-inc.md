@@ -1,9 +1,11 @@
-# Hate Inc.: The Political Media Industry wants you to be angry
+# Hate Inc.: Political Media's Business Model involvs Manipulating your Emotions
 
 > Your anger is the media's opportunity
 
+(My riff on Jeff Bezos' [famous aphorism](https://quoteinvestigator.com/2019/01/13/margin/): "Your margin is my opportunity")
 
-- Hate Inc by Matt Taibi is about how media companies, particulary, political media companies have a business model that is designed to get you angry and hate the other side.
+
+- [Hate Inc](https://amzn.to/2w9TMIb) by Matt Taibi is about how media companies, particulary, political media companies have a business model that is designed to get you angry and hate the other side.
 - A really good book, but I ended up skimming a lot of it because I have been very fascinated by media for a long time so a lot of the topics in the book were covering things I already know.
 - Pretty cool that he released his book through [a series of newsletters on substack](http://taibbi.substack.com/), very similiar to what we're trying to do with the [Atila Schools and Jobs ebook](http://atila.ca/schools)
 - I have also been following Taibbi for a while and I am impressed at his ability to be extreemely honest and self-aware about the problems with mainstream media while also working for what is (maybe?) considered a mainstream media outlet in the Rolling Stone
@@ -42,4 +44,4 @@
 - Overall, a good book, I skimemd most of it because this media is a topic I have been reading heavily for the last few years so most of the information wasn't new to me
 - Also my notes are not that comprehensive, compared to my other book reviews. They are probably better described as me going on tangents about the themes mentioned in the book.
 
-- If you're a "political junkie" or you find yourself having strong opinions on poltical issues that are of the variety: "my side is right and how can those idiots not realize they're wrong", I would encourage you to read this book. If anything you will realize, that everytime you find yourself thinking: "wow, how can people be so dumb!" a company is making money from you having that very thought.
+- If you're a "political junkie" or you find yourself having strong opinions on poltical issues that are of the variety: "my side is right and how can those idiots not realize they're wrong", I would encourage you to read [Hate Inc.]([Hate Inc](https://amzn.to/2w9TMIb)). If anything you will realize, that everytime you find yourself thinking: "wow, how can people be so dumb!" a company is making money from you having that very thought.
