@@ -1,7 +1,7 @@
 # The Attention Merchants by Tim Wu
 > The history and business of Human Attention
 
-The [Attention Merchants](https://amzn.to/2C10DGw) by Tim Wu is about the business history of how people have tried to trade human attention. Human attention is arguably the most precious commodity in modern history.
+The [Attention Merchants](https://amzn.to/2C10DGw) by Tim Wu is about the business history of how people have tried to trade human attention. Human attention is arguably the most precious commodity in modern history.The [Attention Merchants](https://amzn.to/2C10DGw) by Tim Wu is about the history and business of how people trade human attention. Human attention is arguably the most precious commodity in modern history, so this book studies the different ways this valuable asset has been acquired and used over the years.
 
 I really like historical books because studying history is one of the best things you can do for pattern recognition and understanding the world better. It's very easy to get overwhelmed with the latest controversy du jour, but putting things in a historical context gives you a better understanding of what's really happening. More importantly it shows you that no matter how new and controversial and "life changing" a new technology or platform seems, it can be abstracted as a reinvention of something which already exists.
 
