@@ -1,13 +1,13 @@
 # The Attention Merchants by Tim Wu
+> The history and business of Human Attention
 
-Human attention is arguably the most precious commodity in modern history. This book looks at the history of how people have tried to trade human attention.
+The [Attention Merchants](https://amzn.to/2C10DGw) by Tim Wu is about the business history of how people have tried to trade human attention. Human attention is arguably the most precious commodity in modern history.
 
-I really like historical books because studying history is one of the best things you can do for pattern recognition and understanding the world better. It's very easy to get overwhelmed with the latest controversy du jour, but putting things in a historical context gives you a better understanding of what's really happening.
+I really like historical books because studying history is one of the best things you can do for pattern recognition and understanding the world better. It's very easy to get overwhelmed with the latest controversy du jour, but putting things in a historical context gives you a better understanding of what's really happening. More importantly it shows you that no matter how new and controversial and "life changing" a new technology or platform seems, it can be abstracted as a reinvention of something which already exists.
 
 Tim Wu, does a really good job with this book and it's incredibly well researched. 
 
-[tk might delete this paragraph]
-Though, I would have liked to see a bit more humor or sarcasm in his writing. To be fair, I usually don't say this in most book reviews since I read almost exclusively non-fiction but since I just read Klosterman's but What if We're Wrong, the bar for writing style in non-fiction has been raised.
+One room for improvement is I would have liked to see a bit more humor or sarcasm in his writing. To be fair, I usually don't say this in most book reviews since I read almost exclusively non-fiction but since I just read Klosterman's [but What if We're Wrong](https://blog.tomiwa.ca/but-what-if-were-wrong-book-notes/), the bar for writing style in non-fiction has been raised.
 
 - Book starts very strong. Tells the story of a company EFP, Education Funding Partners that approaches the Twin Rivers school disctrict in 2011 that they will give money to struggling school district in exchange for money. Also tell the story of a company in Florida that put the McDonalds logo on its report card (good grades qualified you for a report card)[4]
 - Funny enough I actually pitched this idea to a company I worked for before
@@ -90,3 +90,7 @@ Interesting book reference, "telling the old story, the art of narrative preachi
 - Time magazine, most succesful magazine [222]
 - People magazine pioneered "celebrification" of society
 - Red Bates pioneered athlete endoresments w/ O.J Simpson and Hert in 1970s [226]
+
+- Origins of the Smartphone "RIM" [308]
+- It's amazing b/c I was in High School and witnessed the transition from everyone talking on BBM when I was in grade 9 to everyone using iMessage in grade 12. Same thing with the rise of Instagram in 2013 and rise of Instagram influencers [313]
+- End of book ties in hstiroy of attention merchants all together
