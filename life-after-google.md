@@ -20,7 +20,7 @@ I end this paragraph, by saying that this is usually what happens when you have 
 ## Google's Datacenter Coup
 
 
-### TK add ection about Bell's Law , Urs Holze and The Dalles [51]
+### TK add section about Bell's Law , Urs Holze and The Dalles [51]
 
 ### Impressive Hardware - Riding the Moore's Law Wave and Time is the Real Scarcity
 - Interesting chapter about How Google capitalized on Moore's Law when bulding their datacenters
