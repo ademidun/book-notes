@@ -58,3 +58,53 @@ Recently I've found with biographies it's more interesting and informative for m
  I'm 80% confident think the aformentioned thread is true 80% of the time. 
  
  However, I reserve the right to change my mind at any time without notice.
+
+Interesting Nicholas Hanauer quote: "He's got the disciplined to be focused long term, and the discipline to say to himself, the employees, and the shareholders, 'if you're looking for quick returns, don't look here. We're trying to do something extraordinary and we're investing for the future...[Bezos is] the most single-mindedly focused person I'e ever met. I worry about what he's going to be like when he's 50. [230] [tk add book quote]
+- Especially ironic because you the reverse has happened Bezos is like Lebron and wine, they are both getting better with age.
+
+- It's also interesting listening to all the internet pundits that were opining on wether or not Amazon would be succesful etc.
+
+- Most companies are competitor focused, not customer focused. There's an interesting quote from Barnes and Nobles where they say that the only reason that they're offering online is because Amazon is doing it.
+
+Think about, they're reason for going online isn't because Amazon has shown them that their is strong customer demand. 
+
+They went online because that is what Amazon did.
+
+A lot of companies and people think this way. They don't think from first principles about what will help them reach their goals. They reason by analogy, precedent and social norms. "X might be better for me but no one I know is doing X, everyone is doing Y, let me do Y then.".
+
+This competitor-focused behavior in all avenues of line : launching a new product, picking a school, career, dating, travelling, music etc.
+
+- Henry Blodget quote about how Amazon actually creates demand. [203] [tk include photo]
+- This is why I think being overly competitive is a losing mindset. Like Peter Thiel Said "competition is for losers"
+
+- If the Book market in 1990 is $100 M, And Amazon sells $50M in books in 1991, its not necessarily that they took share from Barnes and Nobles, Borders etc.
+
+- Amazon made book buying so easy that people who weren't buying books before started buying books
+
+- Important takeaway for me with Atila:
+
+$6.1 Billion in scholarships awarded every year( [College Scholarships Statistics](https://www.savingforcollege.com/article/college-scholarships-statistics), [2015–16 National Postsecondary Student Aid Study (NPSAS:16) Student Financial Aid Estimates for 2015–16: First Look](https://nces.ed.gov/pubs2018/2018466.pdf))
+
+I don't think hmm, Atila is in a $6 billion market, I need to . My mental model is, if we made it super easy for anyone to start a scholarship. Could we grow that to a $10 billion market and then even bigger
+
+This is also a good mental model for life. Avoid playing games where there's a fixed prize and a fixed winner. See finite and infinite games by James Carse for more on this
+
+Interesting anecdote about Amazon's cash operating cycle [90]
+
+Nerdy detaiL; When you think of the state of the internet in 1994, it's amazing that [57-62]
+
+Narrative economics: most CEOs share a story about how profitable their company will be.
+
+Jeff Bezos sells the opposity story: "We Will not be profitable and it will be great" [XIX] (tk, link to great companies tell stories)
+
+Compare Amazon IPO to Present day IPOs [167]
+
+Amazon vs Barnes and Noble [169]
+
+Intersting insight: Opportunity to sell the backlist [174]
+
+Recruiting and handling PR mistakes [221]
+
+Find quote about barnes and Nobles CEO saying he's only goint into online because of Amazon
+
+
