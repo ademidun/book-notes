@@ -58,6 +58,14 @@ Recently I've found with biographies it's more interesting and informative for m
  I'm 80% confident think the aformentioned thread is true 80% of the time. 
  
  However, I reserve the right to change my mind at any time without notice.
+ 
+ ## Amazon IPO
+
+- Frank Quattrone was chosen amongst 5 investment banks as a lead underwriter for the Amazon IPO
+- Interesting because there was a point in undergrad where a lot of my classmates interned his company, Qatalyst partners.
+- Ironically, a lot of them were the ones in the software engineering and business dual degree program. I also had coffee chats with some people that interened Qatalyst. It seemed like the closest culture fit to a tech company meets investment banking and I like both technology and investing.
+- I decided I should probably just work for an actual tech company
+
 
 Interesting Nicholas Hanauer quote: "He's got the disciplined to be focused long term, and the discipline to say to himself, the employees, and the shareholders, 'if you're looking for quick returns, don't look here. We're trying to do something extraordinary and we're investing for the future...[Bezos is] the most single-mindedly focused person I'e ever met. I worry about what he's going to be like when he's 50. [230] [tk add book quote]
 - Especially ironic because you the reverse has happened Bezos is like Lebron and wine, they are both getting better with age.
