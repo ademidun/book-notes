@@ -23,9 +23,11 @@ But overall, a lot of great insights and takeaways.
 
 1. Polls don't work. Social media data and analytics are more reliable than polls. At least for anything mildly controversial. Because of social desirability bias, if there is 2 options and one of them is "bad" people will like. Don't ask people if they will vote. Not voting is "bad" so people will lie. Instead see how many people Googled "How do I register to voite?" to track voter turnout.
 
-2. For some people, technology is their new religion. People don't just ask Google questions like "what time does the grocery store close", increasingly more people are asking Google questions like: "what is the meaning of life" and "what is my purpose?"
+2. For some people, technology is their new religion. People don't just ask Google questions like "what time does the grocery store close", increasingly more people are asking Google questions like: "what is the meaning of life" and "what is my purpose?" or "how can I be a better persion"
 
-3. 
+3. The last chapters are dedicated to the ethical implications. Do organizations have a right to judge fitness for criteria based on abstracti but statistically predictive information?[261]. [Study using data from a peer to peer lending site](https://www8.gsb.columbia.edu/researcharchive/articles/15033) found that some certain ethnicities or religion are more likely to default on a loan. Sometimes by as much as 2.2 times. Should this data be excluded? 
+
+Interesting questions. Came for the statistics, stayed for the phiolosphy.
 
 ## Amazon.com Get Big Fast
 
@@ -37,7 +39,17 @@ But overall, a lot of great insights and takeaways.
 
 2. Be customer driven not competitor driven. There's a quote from the book about how the only reason Barnes and Noble entered the book game is because of Amazon. Interestingly this is also a good lesson for life. Figure out what you're optimizing your life for and double, triple, quadrubple down on that. Don't worry about what your classmates from school are doing. 90% of the battles you face in life are with yourself.
 
-3. First, get the unit economics right. Then, double, tripe, quadruple down on scaling. A lot of people say that Amazon is not profitable but actually they were very disciplined about being gross margin profitable early on. Then once they validated their business model and unit economics, they threw every dollar of excess cash into growing the business.
+3. First, get the unit economics right. Then, double, tripe, quadruple down on scaling. A lot of people say that Amazon is not profitable but actually they were very disciplined about being gross margin profitable s
+early on. Then once they validated their business model and unit economics, they threw every dollar of excess cash into growing the business.
+
+
+## Deep Learning For Life Sciences
+
+1. The fundamental nature of Life Sciences and Medicine has changed from chemistry and biology to data and statistics.  Increasingly more and more innovations are coming from analyzing large datasets using machine learning models to get insights from that results and using a bit of biology and chemistry intuition to guide those insights.
+
+2. Software Engineers and Data scientists are the new doctors and pharmacists. As more innovations are being moved from the lab to the cloud. The core skill rrequired will shift from a deep learning of anatomy and chemistry to data and algorithms. See Vinod Khosla's [Dr. Algorithm](https://www.khoslaventures.com/20-percent-doctor-included-speculations-and-musings-of-a-technology-optimist) essay for more on this.
+
+3. This book also has a lot of coding samples and snippets which I really appreciate. If you decide to read this book, I strongly recommend you actually follow along and do the coding exercises and put them on your github. You can see their official repo at [deepchem/DeepLearningLifeSciences](https://github.com/deepchem/DeepLearningLifeSciences) and you can see some of mine at [ademidun/deep-learning-life-sciences-code](https://github.com/ademidun/deep-learning-life-sciences-code)
 
 
 ## Audiobooks
